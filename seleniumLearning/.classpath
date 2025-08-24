@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/byte-buddy-1.17.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/commons-exec-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/opentelemetry-sdk-logs-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/opentelemetry-sdk-metrics-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/opentelemetry-sdk-trace-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-api-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-chrome-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-chromium-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-devtools-v137-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-devtools-v138-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-devtools-v139-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-edge-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-firefox-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-http-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-ie-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-java-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-json-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-manager-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-os-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-remote-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-safari-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SANKAR/Downloads/selenium-java-4.35.0/selenium-support-4.35.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
